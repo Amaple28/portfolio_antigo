@@ -1,0 +1,20 @@
+header{
+    height: 30vh;
+    width: 100vw;
+    background-color: #200327;
+    color: #fff;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 1em;
+    font-weight: 300;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ornamentCont {
+    width: 8em;
+}
