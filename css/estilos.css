@@ -576,6 +576,11 @@ nav a:hover {
     background-size: cover;
 }
 
+#pexels {
+    background: url(../img/pexels.png) no-repeat center;
+    background-size: cover;
+}
+
 #sisu {
     background: url(../img/simulador_sisu.png) no-repeat center;
     background-size: cover;
