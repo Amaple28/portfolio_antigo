@@ -671,17 +671,6 @@ nav a:hover {
     background-size: cover;
 }
 
-#notasfiscais {
-    background: url(../img/notasfiscais.png) no-repeat center;
-    background-size: cover; 
-    background-color: #abae47;
-}
-
-#pexels {
-    background: url(../img/pexels.png) no-repeat center;
-    background-size: cover;
-}
-
 #paypal {
     background: url(../img/paypal.png) no-repeat center;
     background-size: cover;
