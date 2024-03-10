@@ -691,7 +691,30 @@ nav a:hover {
     background-size: cover;
 }
 
+#notasfiscais {
+    background: url(../img/nota_fiscal_front.png) no-repeat center;
+    background-size: cover;
+}
 
+#luari {
+    background: url(../img/logobranco_luari.png) no-repeat center;
+    background-size: cover;
+}
+
+#restaurando_vidas{
+    background: url(../img/restaurando_vidas.png) no-repeat center;
+    background-size: cover;
+}
+
+#ads{
+    background: url(../img/ads_api.png) no-repeat center;
+    background-size: cover;
+}
+
+#analytics{
+    background: url(../img/analytics_api.png) no-repeat center;
+    background-size: cover;
+}
 
 #separadorContacto {
     width: 100vw;
